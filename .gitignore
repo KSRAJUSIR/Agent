@@ -1,0 +1,11 @@
+.env
+college.db
+college.db-journal
+college.db-wal
+college.db-shm
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
